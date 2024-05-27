@@ -1,1 +1,7 @@
 secret_key
+*.log
+!important.log
+**/logs
+config?.json
+key[12].json
+/logs/
