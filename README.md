@@ -1,2 +1,2 @@
 # Myself Git Learning
-This repo was creted for git studying
+This repo was created for git studying
