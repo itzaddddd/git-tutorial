@@ -17,7 +17,7 @@ type User struct {
 
 var timeUTC = time.UTC
 var id1Birthday = time.Date(1999, 3, 12, 0, 0, 0, 0, timeUTC)
-var id2Birthday = time.Date(1970, 11, 10, 0, 0, 0, 0, timeUTC)
+var id2Birthday = time.Date(1973, 11, 10, 0, 0, 0, 0, timeUTC)
 var id3Birthday = time.Date(1984, 7, 30, 0, 0, 0, 0, timeUTC)
 
 var userLits = []User{
